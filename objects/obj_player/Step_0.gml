@@ -27,3 +27,10 @@ sprite_index = spr_kriswu
 }else if (yspd > 0){
 sprite_index = spr_kriswd	
 }
+
+if(xspd != 0 or yspd != 0){
+	image_speed = 1
+} else{
+	image_speed = 0
+	image_index = 0
+}
