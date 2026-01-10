@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_kriswd",
+    "path":"sprites/spr_kriswd/spr_kriswd.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
