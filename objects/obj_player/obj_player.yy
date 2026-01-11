@@ -33,11 +33,14 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_kriswd",
     "path":"sprites/spr_kriswd/spr_kriswd.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_kriswd",
+    "path":"sprites/spr_kriswd/spr_kriswd.yy",
+  },
   "visible":true,
 }

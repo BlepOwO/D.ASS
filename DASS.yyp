@@ -21,8 +21,10 @@
   },
   "name":"DASS",
   "resources":[
+    {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
+    {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},},
     {"id":{"name":"spr_kriswd","path":"sprites/spr_kriswd/spr_kriswd.yy",},},
     {"id":{"name":"spr_kriswl","path":"sprites/spr_kriswl/spr_kriswl.yy",},},
     {"id":{"name":"spr_kriswr","path":"sprites/spr_kriswr/spr_kriswr.yy",},},

@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_kriswd",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":37,
   "bbox_left":0,
   "bbox_right":18,
-  "bbox_top":0,
+  "bbox_top":26,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
